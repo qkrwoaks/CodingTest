@@ -43,11 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="A knightly weapon.cs" />
     <Compile Include="Add Digits.cs" />
     <Compile Include="Even and odd numbers.cs" />
     <Compile Include="Finding the Average.cs" />
     <Compile Include="Integer square root determination.cs" />
+    <Compile Include="Number mate.cs" />
+    <Compile Include="Parallel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Split string.cs" />
     <Compile Include="The sum of mineral water.cs" />
   </ItemGroup>
   <ItemGroup>
