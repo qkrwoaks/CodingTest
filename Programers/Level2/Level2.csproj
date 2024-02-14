@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Create JadenCase strings.cs" />
-    <Compile Include="Max and Min values.cs" />
+    <Compile Include="JadenCase 문자열 만들기.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="최댓값과 최솟값.cs" />
+    <Compile Include="최솟값 만들기.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

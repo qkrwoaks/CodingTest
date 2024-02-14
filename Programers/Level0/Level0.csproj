@@ -43,18 +43,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="A division of two numbers.cs" />
-    <Compile Include="a two-figure difference.cs" />
-    <Compile Include="Age output.cs" />
-    <Compile Include="Finding one%27s.cs" />
-    <Compile Include="Mumbling %281%29.cs" />
-    <Compile Include="Parallel.cs" />
-    <Compile Include="product of two numbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Protractor.cs" />
-    <Compile Include="Saving the rest.cs" />
-    <Compile Include="The sum of even numbers.cs" />
-    <Compile Include="The sum of two numbers.cs" />
+    <Compile Include="각도기.cs" />
+    <Compile Include="나머지 구하기.cs" />
+    <Compile Include="나이 출력.cs" />
+    <Compile Include="두 수의 곱.cs" />
+    <Compile Include="두 수의 나눗셈.cs" />
+    <Compile Include="두 수의 차.cs" />
+    <Compile Include="두 수의 합.cs" />
+    <Compile Include="몫 구하기.cs" />
+    <Compile Include="배열 두 배 만들기.cs" />
+    <Compile Include="배열 원소의 길이.cs" />
+    <Compile Include="배열의 평균값.cs" />
+    <Compile Include="분수의 덧셈.cs" />
+    <Compile Include="삼각형의 완성조건 %281%29.cs" />
+    <Compile Include="삼각형의 완성조건 %282%29.cs" />
+    <Compile Include="순서쌍의 개수.cs" />
+    <Compile Include="숫자 비교하기.cs" />
+    <Compile Include="약수의 개수와 덧셈.cs" />
+    <Compile Include="양꼬치.cs" />
+    <Compile Include="옹알이 %281%29.cs" />
+    <Compile Include="주사위의 개수.cs" />
+    <Compile Include="짝수의 합.cs" />
+    <Compile Include="컨트롤 제트.cs" />
+    <Compile Include="피자 나눠 먹기 %283%29.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

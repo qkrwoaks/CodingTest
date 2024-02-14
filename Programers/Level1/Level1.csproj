@@ -43,16 +43,42 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="A knightly weapon.cs" />
-    <Compile Include="Add Digits.cs" />
-    <Compile Include="Even and odd numbers.cs" />
-    <Compile Include="Finding the Average.cs" />
-    <Compile Include="Integer square root determination.cs" />
-    <Compile Include="Number mate.cs" />
-    <Compile Include="Parallel.cs" />
+    <Compile Include="K번째수.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Split string.cs" />
-    <Compile Include="The sum of mineral water.cs" />
+    <Compile Include="개인정보 수집 유효기간.cs" />
+    <Compile Include="기사단원의 무기.cs" />
+    <Compile Include="내적.cs" />
+    <Compile Include="달리기 경주.cs" />
+    <Compile Include="대충 만든 자판.cs" />
+    <Compile Include="두 정수 사이의 합.cs" />
+    <Compile Include="둘만의 암호.cs" />
+    <Compile Include="디펜스 게임.cs" />
+    <Compile Include="로또의 최고 순위와 최저 순위.cs" />
+    <Compile Include="모의고사.cs" />
+    <Compile Include="문자열 나누기.cs" />
+    <Compile Include="문자열을 정수로 바꾸기.cs" />
+    <Compile Include="바탕화면 정리.cs" />
+    <Compile Include="성격 유형 검사하기.cs" />
+    <Compile Include="수박수박수박수박수박수.cs" />
+    <Compile Include="신고 결과 받기.cs" />
+    <Compile Include="약수의 개수와 덧셈.cs" />
+    <Compile Include="약수의 합.cs" />
+    <Compile Include="음양 더하기.cs" />
+    <Compile Include="자릿수 더하기.cs" />
+    <Compile Include="정수 제곱근 판별.cs" />
+    <Compile Include="직사각형 별찍기.cs" />
+    <Compile Include="짝수와 홀수.cs" />
+    <Compile Include="체육복.cs" />
+    <Compile Include="최소직사각형.cs" />
+    <Compile Include="카드 뭉치.cs" />
+    <Compile Include="콜라 문제.cs" />
+    <Compile Include="콜라츠 추측.cs" />
+    <Compile Include="평균 구하기.cs" />
+    <Compile Include="평행.cs" />
+    <Compile Include="푸드 파이트 대회.cs" />
+    <Compile Include="하샤드 수.cs" />
+    <Compile Include="핸드폰 번호 가리기.cs" />
+    <Compile Include="햄버거 만들기.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
