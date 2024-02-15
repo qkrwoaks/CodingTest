@@ -67,6 +67,7 @@
     <Compile Include="짝수의 합.cs" />
     <Compile Include="컨트롤 제트.cs" />
     <Compile Include="피자 나눠 먹기 %283%29.cs" />
+    <Compile Include="합성수 찾기.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
