@@ -64,6 +64,7 @@
     <Compile Include="신고 결과 받기.cs" />
     <Compile Include="약수의 개수와 덧셈.cs" />
     <Compile Include="약수의 합.cs" />
+    <Compile Include="옹알이 %282%29.cs" />
     <Compile Include="음양 더하기.cs" />
     <Compile Include="자릿수 더하기.cs" />
     <Compile Include="자연수 뒤집어 배열로 만들기.cs" />
