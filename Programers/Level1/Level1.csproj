@@ -56,6 +56,7 @@
     <Compile Include="로또의 최고 순위와 최저 순위.cs" />
     <Compile Include="모의고사.cs" />
     <Compile Include="문자열 나누기.cs" />
+    <Compile Include="문자열 다루기 기본.cs" />
     <Compile Include="문자열을 정수로 바꾸기.cs" />
     <Compile Include="바탕화면 정리.cs" />
     <Compile Include="성격 유형 검사하기.cs" />
@@ -65,6 +66,7 @@
     <Compile Include="약수의 합.cs" />
     <Compile Include="음양 더하기.cs" />
     <Compile Include="자릿수 더하기.cs" />
+    <Compile Include="자연수 뒤집어 배열로 만들기.cs" />
     <Compile Include="정수 제곱근 판별.cs" />
     <Compile Include="직사각형 별찍기.cs" />
     <Compile Include="짝수와 홀수.cs" />
