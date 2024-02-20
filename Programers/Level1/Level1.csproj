@@ -61,6 +61,7 @@
     <Compile Include="바탕화면 정리.cs" />
     <Compile Include="성격 유형 검사하기.cs" />
     <Compile Include="수박수박수박수박수박수.cs" />
+    <Compile Include="숫자 짝꿍.cs" />
     <Compile Include="신고 결과 받기.cs" />
     <Compile Include="약수의 개수와 덧셈.cs" />
     <Compile Include="약수의 합.cs" />
