@@ -49,6 +49,7 @@
     <Compile Include="이진 변환 반복하기.cs" />
     <Compile Include="최댓값과 최솟값.cs" />
     <Compile Include="최솟값 만들기.cs" />
+    <Compile Include="피보나치 수.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
