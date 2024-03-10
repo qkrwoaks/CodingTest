@@ -64,6 +64,7 @@
     <Compile Include="약수의 개수와 덧셈.cs" />
     <Compile Include="양꼬치.cs" />
     <Compile Include="옹알이 %281%29.cs" />
+    <Compile Include="정수를 나선형으로 배치하기.cs" />
     <Compile Include="주사위의 개수.cs" />
     <Compile Include="중앙값 구하기.cs" />
     <Compile Include="짝수의 합.cs" />
